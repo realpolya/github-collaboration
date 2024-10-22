@@ -1,1 +1,5 @@
-life sucksssss!
+
+!
+
+Merge conflicts by Polina
+
