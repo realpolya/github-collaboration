@@ -1,4 +1,7 @@
 
+Merge conflicts by Mandy
+
+
 are we going to have a conflict here
 
 
@@ -12,4 +15,5 @@ Merge conflicts by Polina
 
 
 adding more things here
+
 
