@@ -1,1 +1,3 @@
-Merge conflicts by Polina
+Merge conflicts 
+(adding this conflicting line)
+by Polina
